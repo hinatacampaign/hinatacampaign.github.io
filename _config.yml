@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: サソリ
-description: Bookmark this to keep an eye on my project updates!
+description: For things that need more customization than SNS can offer
+
+minima:
+  social_links:
+    - { platform: x, user_url: "https://x.com/sasori39883522" }:
