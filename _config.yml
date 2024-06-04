@@ -8,3 +8,6 @@ header_pages:
 minima:
   social_links:
     - { platform: x, user_url: "https://x.com/sasori39883522" }:
+
+plugins:
+  - jekyll-sitemap
