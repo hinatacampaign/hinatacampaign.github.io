@@ -2,6 +2,9 @@ theme: jekyll-theme-minimal
 title: サソリ
 description: For things that need more customization than SNS can offer
 
+header_pages:
+  - ice-de-breakers.md
+
 minima:
   social_links:
     - { platform: x, user_url: "https://x.com/sasori39883522" }:
