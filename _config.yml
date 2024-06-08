@@ -1,11 +1,13 @@
 theme: jekyll-theme-minimal
 title: サソリ
 description: For things that need more customization than SNS can offer
+google_analytics: k1zvmQveFzaCP4jgZsSnkxuYCllo-zmj8vHVwGsCuTw
+
 
 header_pages:
   - ice-de-breakers.md
 
-minima:
+minimal:
   social_links:
     - { platform: x, user_url: "https://x.com/sasori39883522" }:
 
