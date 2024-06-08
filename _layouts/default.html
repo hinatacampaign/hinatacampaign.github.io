@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <div style="font-size: 28px; font-weight: bold;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></div>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -23,15 +23,12 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% include social-media-links.html %}
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <div style="font-size: 1.5em; font-weight: bold;">Translations</div>
+        <p>
+            <ul class="pages-list">
+                <li><a href="/ice-de-breakers">Ice de Breakers</a></li>
+            </ul>
+        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -47,6 +44,10 @@
 
       </section>
       <footer>
+        {% include social-media-links.html %}
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
