@@ -1,5 +1,8 @@
 # Ice de Breakers
 
+## Intro
+<div class="amara-embed" data-url="http://www.youtube.com/watch?v=t4sdGns7jrc" data-team="null" data-initial-language="en" data-show-subtitles-default="true"></div>
+
 ## 1. Season of Encounters
 <div class="amara-embed" data-url="http://www.youtube.com/watch?v=2_muefaHDOc" data-team="null" data-initial-language="en" data-show-subtitles-default="true"></div>
 
