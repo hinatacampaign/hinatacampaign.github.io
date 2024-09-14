@@ -6,13 +6,13 @@
     <meta name="twitter:site" content="@sasori39883522" />
     <meta name="twitter:text:title" content="{{page.title}}" />
     <meta name="twitter:description" content="{{page.description}}" />
-    <meta name="twitter:player" content="{{page.permalink}}" />
+    <meta name="twitter:player" content="{{page.plink}}" />
     <meta name="twitter:player:width" content="960" />
     <meta name="twitter:player:height" content="640" />
     <meta name="twitter:image" content="{{page.thumbnail}}" />
 
     <script>
-        // window.location.href = 'https://amara.org/videos/{{{id}}}/{{lang}}/'
+        window.location.href = 'https://amara.org/videos/{{page.id}}/{{page.lang}}/'
     </script>
 
     <script type="text/javascript" src="https://amara.org/embedder-iframe"></script>
@@ -24,11 +24,22 @@
             margin: 0;
         }
     </style>
-    <title>{{title}}</title>
+    <title>{{page.title}}</title>
 </head>
 
 <body>
-    <a href="https://amara.org/videos/{{{page.id}}}/{{page.lang}}/">Open video</a>
+    <div class="container">
+      
+        <div
+          class="amara-embed"
+          data-video-id="{{page.id}}"
+          data-initial-language="{{page.lang}}"
+          data-show-subtitles-default="true"
+        >
+        </div>
+    
+    </div>
+    <!-- <a href="https://amara.org/videos/{{page.id}}/{{page.lang}}/">Open video</a> -->
 </body>
 
 </html>
