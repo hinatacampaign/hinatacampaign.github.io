@@ -1,15 +1,15 @@
 theme: jekyll-theme-minimal
-title: サソリ
-description: For things that need more customization than SNS can offer
-google_analytics: k1zvmQveFzaCP4jgZsSnkxuYCllo-zmj8vHVwGsCuTw
+title: Hinata Campaign
+description: Widgets for the Hinata Campaign account
+# google_analytics: k1zvmQveFzaCP4jgZsSnkxuYCllo-zmj8vHVwGsCuTw
 
 
 header_pages:
-  - ice-de-breakers.md
+  # - ice-de-breakers.md
 
 minimal:
   social_links:
-    - { platform: x, user_url: "https://x.com/sasori39883522" }:
+    - { platform: x, user_url: "https://x.com/hinatacampaign" }:
 
 plugins:
-  - jekyll-sitemap
+  # - jekyll-sitemap
