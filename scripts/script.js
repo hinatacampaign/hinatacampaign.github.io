@@ -1,4 +1,4 @@
-addEventListener("DOMContentLoaded", (event) => {
+document.addEventListener("DOMContentLoaded", (event) => {
   if (self === parent) {
     document.querySelector("body").classList.add("self");
   } else {
