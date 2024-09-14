@@ -4,15 +4,15 @@
     <meta content="text/html; charset='UTF-8'; http-equiv='Content-Type'" />
     <meta name="twitter:card" content="player" />
     <meta name="twitter:site" content="@sasori39883522" />
-    <meta name="twitter:text:title" content="{{title}}" />
-    <meta name="twitter:description" content="{{description}}" />
-    <meta name="twitter:player" content="{{permalink}}" />
+    <meta name="twitter:text:title" content="{{page.title}}" />
+    <meta name="twitter:description" content="{{page.description}}" />
+    <meta name="twitter:player" content="{{page.permalink}}" />
     <meta name="twitter:player:width" content="960" />
     <meta name="twitter:player:height" content="640" />
-    <meta name="twitter:image" content="{{thumbnail}}" />
+    <meta name="twitter:image" content="{{page.thumbnail}}" />
 
     <script>
-        window.location.href = 'https://amara.org/videos/{{{id}}}/{{lang}}/'
+        // window.location.href = 'https://amara.org/videos/{{{id}}}/{{lang}}/'
     </script>
 
     <script type="text/javascript" src="https://amara.org/embedder-iframe"></script>
@@ -28,7 +28,7 @@
 </head>
 
 <body>
-    <a href="https://amara.org/videos/{{{id}}}/{{lang}}/">Open video</a>
+    <a href="https://amara.org/videos/{{{page.id}}}/{{page.lang}}/">Open video</a>
 </body>
 
 </html>
