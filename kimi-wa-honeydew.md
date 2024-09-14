@@ -1,7 +1,7 @@
 ---
 layout: videojs
 title: Hinatazaka46 - Kimi wa Honeydew
-description: >
+description: >+
     Translated by @hinatacampaign
 
     Director: Akira Kashida

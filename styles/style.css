@@ -1,7 +1,7 @@
 /* Our default values set as CSS variables */
 :root {
   --color-bg: steelblue;
-  --color-text-main: #000000;
+  --color-text-main: white;
   --color-primary: #ffff00;
   --wrapper-height: 87vh;
   --image-max-width: 300px;
@@ -31,37 +31,19 @@
   src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437") format("opentype");
 }
 
+body {
+  font-family: HK Grotesk;
+  background-color: var(--color-bg);
+}
+
 body .page-subtitles {
   color: white;
   background-color: var(--color-bg);
   margin: 0;
-}
 
-.btn--remix {
-  font-family: HK Grotesk;
-  padding: 0.75rem 1rem;
-  font-size: 1.1rem;
-  line-height: 1rem;
-  font-weight: 500;
-  height: 2.75rem;
-  align-items: center;
-  cursor: pointer;
-  background: #ffffff;
-  border: 1px solid #000000;
-  box-sizing: border-box;
-  border-radius: 4px;
-  text-decoration: none;
-  color: #000;
-  white-space: nowrap;
-  margin-left: auto;
-}
-
-.btn--remix img {
-  margin-right: 0.5rem;
-}
-
-.btn--remix:hover {
-  background-color: #d0fff1;
+  h1 {
+    color: white;
+  }
 }
 
 /* Navigation grid */
@@ -81,7 +63,6 @@ a:not(.btn--remix):visited {
   font-style: normal;
   font-weight: normal;
   font-size: 1.1rem;
-  color: #000;
   text-decoration: none;
   border-style: none;
 }
@@ -99,11 +80,6 @@ a:not(.btn--remix):visited {
   padding: 0 1rem;
 }
 
-body {
-  font-family: HK Grotesk;
-  background-color: var(--color-bg);
-}
-
 /* Page structure */
 .wrapper {
   min-height: var(--wrapper-height);
@@ -117,17 +93,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-
-/* Very light scaling for our illustration */
-.title {
-  color: #2800ff;
-  font-family: HK Grotesk;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 100px;
-  line-height: 105%;
-  margin: 0;
 }
 
 .container {
