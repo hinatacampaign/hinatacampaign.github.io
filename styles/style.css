@@ -36,14 +36,10 @@ body {
   background-color: var(--color-bg);
 }
 
-body .page-subtitles {
+body.page-subtitles {
   color: white;
   background-color: var(--color-bg);
   margin: 0;
-
-  h1 {
-    color: white;
-  }
 }
 
 /* Navigation grid */
