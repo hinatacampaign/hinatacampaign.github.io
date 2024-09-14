@@ -9,7 +9,7 @@ addEventListener("DOMContentLoaded", (event) => {
   const player = videojs.getPlayer(playerEl);
 
   if (player) {
-    player.addEventListener('play', function () {
+    player.on('play', function () {
       playerEl.removeChild(document.querySelector('.vjs-poster'));
     });
   }
