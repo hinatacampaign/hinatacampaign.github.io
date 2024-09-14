@@ -7,7 +7,7 @@ if (self === parent) {
 const player = videojs.getPlayer(document.querySelector('#vid1'));
 
 if (player) {
-  player.addEventListener('play', function () { this.poster = null; });
+  player.on('play', function () { this.poster = null; });
 }
 
 document.querySelectorAll(".hide-first").forEach(e => e.classList.remove('hide-first'));
