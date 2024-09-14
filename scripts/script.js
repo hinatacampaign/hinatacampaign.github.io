@@ -4,10 +4,13 @@ if (self === parent) {
   document.querySelector("body").classList.add("child");
 }
 
-const player = videojs.getPlayer(document.querySelector('#vid1'));
+const playerEl = document.querySelector('#vid1');
+const player = videojs.getPlayer(playerEl);
 
 if (player) {
-  player.on('play', function () { this.poster = null; });
+  player.on('play', function () {
+    playerEl.removeChild(document.querySelector('.vjs-player'));
+  });
 }
 
 document.querySelectorAll(".hide-first").forEach(e => e.classList.remove('hide-first'));
