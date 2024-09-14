@@ -9,5 +9,5 @@ description: >
     Production: isai Inc.
 id: bRUOmjBPKA5O
 lang: en
-plink: https://sasori39883522.github.io/kimi-wo-oboetenai.html
+plink: https://hinatacampaign.github.io/kimi-wo-oboetenai.html
 ---

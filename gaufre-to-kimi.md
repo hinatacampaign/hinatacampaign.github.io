@@ -11,5 +11,5 @@ description: >
     Production : PARADE Tokyo
 id: jOXTRQghPwIr
 lang: en
-plink: https://sasori39883522.github.io/gaufre-to-kimi.html
+plink: https://hinatacampaign.github.io/gaufre-to-kimi.html
 ---
