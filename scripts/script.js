@@ -9,7 +9,7 @@ const player = videojs.getPlayer(playerEl);
 
 if (player) {
   player.on('play', function () {
-    playerEl.removeChild(document.querySelector('.vjs-player'));
+    playerEl.removeChild(document.querySelector('.vjs-poster'));
   });
 }
 
