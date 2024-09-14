@@ -99,10 +99,6 @@ a:not(.btn--remix):visited {
   padding: 0 1rem;
 }
 
-/******************************************************************************
-  END Glitch hello-app default styles
-  ******************************************************************************/
-
 body {
   font-family: HK Grotesk;
   background-color: var(--color-bg);
@@ -151,7 +147,6 @@ body {
 body.child .hide-on-iframe {
   display: none;
 }
-
 
 body.self .hide-on-self {
   display: none;

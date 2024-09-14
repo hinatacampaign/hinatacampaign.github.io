@@ -11,12 +11,6 @@
     <meta name="twitter:player:height" content="640" />
     <meta name="twitter:image" content="{{page.thumbnail}}" />
 
-    <script>
-        if (parent == self) {
-
-        }
-    </script>
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.17.4/video-js.min.css"
         integrity="sha512-PUekH1zFIQeA2VaIZljiK1mpm3IzLP2JnzMndJSOEEYeQe1wnxSyO6NuBfXMPwaTnW7A5UBgIPHHzbG+betUVg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -24,19 +18,22 @@
     <title>{{page.title}}</title>
 </head>
 
-<body class="subtitles">
-    <div class="container">
-        <h1 class="hide-first hide-on-self">{{ page.title }}</h1>
-        <video id="vid1" class="video-js vjs-16-9" controls autoplay
-            data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "{{ page.video_url }}"}], "enableDocumentPictureInPicture": true }'>
-            <track src="/subs/{{ page.subtitles }}" srclang="en" label="English" default />
-        </video>
-        <div>
-            {{ page.description }}
+<body class="page-subtitles">
+    <div class="wrapper">
+        <div class="container">
+            <h1 class="hide-first hide-on-child">{{ page.title }}</h1>
+            <video id="vid1" class="video-js vjs-16-9" controls autoplay
+                data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "{{ page.video_url }}"}], "enableDocumentPictureInPicture": true }'>
+                <track src="/subs/{{ page.subtitles }}" srclang="en" label="English" default />
+            </video>
+            <div class="hide-first hide-on-child">
+                <code>{{ page.description }}</code>
+            </div>
         </div>
     </div>
     <!-- <a href="https://amara.org/videos/{{page.id}}/{{page.lang}}/">Open video</a> -->
-    <footer class="footer"><a target="_blank" href="https://x.com/hinatacampaign">@hinatacampaign</a></footer>
+    <footer class="footer hide-first hide-on-child"><a target="_blank"
+            href="https://x.com/hinatacampaign">@hinatacampaign</a></footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.17.4/video.min.js"
         integrity="sha512-a0xxvXMNKvm6s+vrkI+bBbrTCzMfuMZ7v1Oc1FFH1kbf5mxNxT+Ysh1V+g8y7Vuv5RhtQ+FGR4IVAwS1VSQBBQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
