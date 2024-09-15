@@ -1,7 +1,9 @@
 ---
 layout: videojs
 title: Hinatazaka46 - Gaufre to Kimi
-description: >
+description: >+
+    Translation by @sasori39883522
+    
     Lyrics : Yasushi Akimoto
     Music & Arrangement : Yuki Tsujimura, Ken Ito
     Director: Yusuke Koroyasu

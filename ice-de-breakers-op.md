@@ -2,7 +2,7 @@
 layout: videojs
 title: Ice de Breakers - Opening
 description: >+
-    Translated by @hinatacampaign
+    Translation by @sasori39883522
 lang: en
 plink: https://hinatacampaign.github.io/ice-de-breakers-op.html
 subtitles: 日向坂46ICE DE BREAKERSOPムービーアイスボックス字幕付き.en.vtt

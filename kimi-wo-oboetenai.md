@@ -2,7 +2,9 @@
 layout: amara
 thumbnail: https://i.ytimg.com/vi/w236wAYPYTM/maxresdefault.jpg
 title: Hinatazaka46 - Kimi wo Oboetenai
-description: >
+description: >+
+    Translation by @sasori39883522
+    
     Director：Minori Nakada
     Choreographer：Kosuke
     Producer： Hiroto Hashimoto, Yujo Kuribayashi

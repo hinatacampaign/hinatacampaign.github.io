@@ -2,7 +2,7 @@
 layout: videojs
 title: Ice de Breakers - 02
 description: >+
-    Translated by @hinatacampaign
+    Translated by @sasori39883522
 lang: en
 plink: https://hinatacampaign.github.io/ice-de-breakers-02.html
 subtitles: 日向坂46ICE DE BREAKERSBREAK 02乾いた体を氷でブレイクアイスボックス.en.vtt

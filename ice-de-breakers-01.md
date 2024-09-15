@@ -2,7 +2,7 @@
 layout: videojs
 title: Ice de Breakers - 01
 description: >+
-    Translated by @hinatacampaign
+    Translated by @sasori39883522
 lang: en
 plink: https://hinatacampaign.github.io/ice-de-breakers-01.html
 subtitles: 日向坂46ICE DE BREAKERSBREAK 01出会いの季節は氷でブレイクアイスボックス.en.vtt

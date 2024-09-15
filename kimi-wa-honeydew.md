@@ -2,7 +2,7 @@
 layout: videojs
 title: Hinatazaka46 - Kimi wa Honeydew
 description: >+
-    Translated by @hinatacampaign
+    Translation by @sasori39883522
 
     Director: Akira Kashida
     Choreographer: CRE8BOY
