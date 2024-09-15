@@ -12,7 +12,7 @@
     <meta name="twitter:image" content="{{page.thumbnail}}" />
 
     <script>
-        if (parent == self) window.location.href = 'https://amara.org/videos/{{page.id}}/{{page.lang}}/'
+        // if (parent == self) window.location.href = 'https://amara.org/videos/{{page.id}}/{{page.lang}}/'
     </script>
 
     <script type="text/javascript" src="https://amara.org/embedder-iframe"></script>
@@ -28,7 +28,7 @@
             data-show-subtitles-default="true">
         </div>
         <div class="hide-first hide-on-child">
-            <code>{{ page.description }}</code>
+            <p>{{ page.description | newline_to_br }}</p>
         </div>
     </div>
     <footer class="footer hide-first hide-on-child">

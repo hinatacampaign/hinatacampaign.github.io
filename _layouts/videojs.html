@@ -27,7 +27,7 @@
                 <track src="/subs/{{ page.subtitles }}" srclang="en" label="English" default />
             </video>
             <div class="hide-first hide-on-child">
-                <code>{{ page.description }}</code>
+                <p>{{ page.description | newline_to_br }}</p>
             </div>
         </div>
     </div>
