@@ -22,13 +22,15 @@
 </head>
 
 <body class="page-subtitles">
-    <div class="container">
-        <h1 class="hide-first hide-on-child">{{ page.title }}</h1>
-        <div class="amara-embed" data-video-id="{{page.id}}" data-initial-language="{{page.lang}}"
-            data-show-subtitles-default="true">
-        </div>
-        <div class="hide-first hide-on-child">
-            <p>{{ page.description | newline_to_br }}</p>
+    <div class="wrapper">
+        <div class="container">
+            <h1 class="hide-first hide-on-child">{{ page.title }}</h1>
+            <div class="amara-embed" data-video-id="{{page.id}}" data-initial-language="{{page.lang}}"
+                data-show-subtitles-default="true">
+            </div>
+            <div class="hide-first hide-on-child">
+                <p>{{ page.description | newline_to_br }}</p>
+            </div>
         </div>
     </div>
     <footer class="footer hide-first hide-on-child">
