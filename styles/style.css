@@ -38,12 +38,15 @@ body {
 
 body.page-subtitles {
   color: white;
-  background-color: var(--color-bg);
   margin: 0;
 
   &.child {
     background-color: black;
   }
+}
+
+a {
+  color: lightsteelblue;
 }
 
 /* Navigation grid */
@@ -74,6 +77,10 @@ a:not(.btn--remix):visited {
 .footer .links {
   padding: 0.5rem 1rem 1.5rem;
   white-space: nowrap;
+}
+
+.footer .footer-content {
+  margin: 5px 20px;
 }
 
 .divider {
