@@ -12,34 +12,29 @@
     <meta name="twitter:image" content="{{page.thumbnail}}" />
 
     <script>
-        if(parent == self) window.location.href = 'https://amara.org/videos/{{page.id}}/{{page.lang}}/'
+        if (parent == self) window.location.href = 'https://amara.org/videos/{{page.id}}/{{page.lang}}/'
     </script>
 
     <script type="text/javascript" src="https://amara.org/embedder-iframe"></script>
 
-    <style>
-        body {
-            color: white;
-            background-color: black;
-            margin: 0;
-        }
-    </style>
+    <link rel="stylesheet" href="/styles/style.css?v=1726335838" />
     <title>{{page.title}}</title>
 </head>
 
-<body>
+<body class="page-subtitles">
     <div class="container">
-      
-        <div
-          class="amara-embed"
-          data-video-id="{{page.id}}"
-          data-initial-language="{{page.lang}}"
-          data-show-subtitles-default="true"
-        >
+        <h1 class="hide-first hide-on-child">{{ page.title }}</h1>
+        <div class="amara-embed" data-video-id="{{page.id}}" data-initial-language="{{page.lang}}"
+            data-show-subtitles-default="true">
         </div>
-    
+        <div class="hide-first hide-on-child">
+            <code>{{ page.description }}</code>
+        </div>
     </div>
-    <!-- <a href="https://amara.org/videos/{{page.id}}/{{page.lang}}/">Open video</a> -->
+    <footer class="footer hide-first hide-on-child">
+        <div class="footer-content"><a target="_blank" href="https://x.com/hinatacampaign">@hinatacampaign</a></div>
+    </footer>
+    <script src="/scripts/script.js?v=1726335838"></script>
 </body>
 
 </html>
