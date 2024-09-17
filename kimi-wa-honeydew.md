@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Kimi wa Honeydew
+title: Hinatazaka46 - Kimi wa Honeydew (Eng Subs)
 description: >+
     Translation by @sasori39883522
 

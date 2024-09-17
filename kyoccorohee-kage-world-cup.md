@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title:  Kyoccorohee - Hinatazaka46's Yuka Kageyama's Lie to Kyoko Saito 
+title:  Kyoccorohee - Hinatazaka46's Yuka Kageyama's Lie to Kyoko Saito (Eng Subs)
 description: >+
     Translation by @sasori39883522
 

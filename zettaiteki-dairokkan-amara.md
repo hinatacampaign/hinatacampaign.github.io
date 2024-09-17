@@ -1,6 +1,6 @@
 ---
 layout: amara
-title: Hinatazaka46 - Zettaiteki Dairokkan
+title: Hinatazaka46 - Zettaiteki Dairokkan (Eng Subs)
 description: >+
     Translation by @sasori39883522
 
