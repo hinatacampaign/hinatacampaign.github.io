@@ -34,10 +34,14 @@
             <div class="hide-first hide-on-child">
                 <p>{{ page.description | newline_to_br }}</p>
                 {% if page.related_links %}
+                <div class="related">
                     <h2>Related</h2>
-                    {% for link in page.related_links %}
-                        <div><a href="{{ link.path }}">{{ link.label }}</a></div>
-                    {% endfor %}
+                    <ul>
+                        {% for link in page.related_links %}
+                        <li><a href="{{ link.path }}">{{ link.label }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
                 {% endif %}
             </div>
         </div>

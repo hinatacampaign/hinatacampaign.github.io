@@ -10,7 +10,7 @@ video_url: http://www.youtube.com/watch?v=t4sdGns7jrc
 thumbnail: https://i.ytimg.com/vi/t4sdGns7jrc/maxresdefault.jpg
 related_links:
 - path: /ice-de-breakers-01.html
-  label: episode 1
+  label: Episode 1
 - path: /ice-de-breakers-02.html
   label: Episode 2
 - path: /ice-de-breakers-03.html

@@ -108,6 +108,12 @@ a:not(.btn--remix):visited {
   margin-bottom: 1.6em;
 }
 
+.related ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
 .loading * {
   display: none;
 }
