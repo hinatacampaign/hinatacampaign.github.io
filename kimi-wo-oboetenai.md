@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Kimi wo Oboetenai (Eng Subs)
+title: Hinatazaka46 - Kimi wo Oboetenai
 description: >+
     Translation by @sasori39883522
     

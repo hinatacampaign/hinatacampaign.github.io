@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Tomo yo, Ichibanboshi da (Eng Subs)
+title: Hinatazaka46 - Tomo yo, Ichibanboshi da
 description: >+
     Translation by @sasori39883522
     Music & Arrangement : Taisuke Nakamura, TomoLow
