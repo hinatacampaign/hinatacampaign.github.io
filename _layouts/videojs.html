@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.17.4/video-js.min.css"
         integrity="sha512-PUekH1zFIQeA2VaIZljiK1mpm3IzLP2JnzMndJSOEEYeQe1wnxSyO6NuBfXMPwaTnW7A5UBgIPHHzbG+betUVg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="/styles/style.css?v=1726335838" />
+    <link rel="stylesheet" href="{{ " /styles/style.css?v=" | append: site.github.build_revision | relative_url }}" />
     <title>{{page.title}} (Eng Subs)</title>
 </head>
 
@@ -55,7 +55,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/3.0.1/Youtube.min.js"
         integrity="sha512-W11MwS4c4ZsiIeMchCx7OtlWx7yQccsPpw2dE94AEsZOa3pmSMbrcFjJ2J7qBSHjnYKe6yRuROHCUHsx8mGmhA=="
         crossorigin="anonymous"></script>
-    <script src="/scripts/script.js?v=1726335838"></script>
+    <script src="{{ " /scripts/script.css?v=" | append: site.github.build_revision | relative_url }}"></script>
 </body>
 
 </html>
