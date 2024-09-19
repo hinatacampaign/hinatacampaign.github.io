@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     const storage = window.localStorage;
     const player = videojs.getPlayer(vid1El);
     player.on('volumechange', function(ev) {
-      const vol = ev.target.player.volume();
+      const vol = player.volume();
       storage.setItem('hinatacampaign-vid1-volume', vol.toString());
     });
     player.volume(Number(storage.getItem('hinatacampaign-vid1-volume') ?? 0.8));
