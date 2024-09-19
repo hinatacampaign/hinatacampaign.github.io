@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
       const vol = ev.target.player.volume();
       storage.setItem('hinatacampaign-vid1-volume', vol.toString());
     });
-    player.volume(Number(storage.getItem('hinatacampaign-vid1-volume')));
+    player.volume(Number(storage.getItem('hinatacampaign-vid1-volume') ?? 0.8));
   }
 
   document.querySelectorAll(".hide-first").forEach(e => e.classList.remove('hide-first'));
