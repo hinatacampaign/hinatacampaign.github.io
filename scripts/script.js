@@ -14,5 +14,16 @@ document.addEventListener("DOMContentLoaded", (event) => {
       .forEach((e) => e.remove());
   }, 2000);
 
+  const vid1El = document.querySelector('#vid1');
+  if(vid1El) {
+    const storage = window.localStorage;
+    const player = videojs.getPlayer(vid1El);
+    player.on('volumechange', function(ev) {
+      const vol = ev.target.player.volume();
+      storage.setItem('hinatacampaign-vid1-volume', vol.toString());
+    });
+    player.volume(Number(storage.getItem('hinatacampaign-vid1-volume')));
+  }
+
   document.querySelectorAll(".hide-first").forEach(e => e.classList.remove('hide-first'));
 });
