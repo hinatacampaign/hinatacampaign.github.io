@@ -33,6 +33,9 @@
             <video id="vid1" class="video-js vjs-16-9" controls autoplay
                 data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "{{ page.video_url }}"}], "enableDocumentPictureInPicture": true }'>
                 <track src="/subs/{{ page.subtitles }}" srclang="en" label="English" default />
+                {% if page.subtitles_id %}
+                <track src="/subs/{{ page.subtitles_id }}" srclang="id" label="Bahasa Indonesia" />
+                {% endif %}
             </video>
             <div class="hide-first hide-on-child">
                 <p>{{ page.description | newline_to_br }}</p>
