@@ -6,8 +6,8 @@ description: >+
 lang: en
 plink: https://hinatacampaign.github.io/ice-de-breakers-05.html
 subtitles: 日向坂46ICE DE BREAKERSLAST BREAKいつでもどこでも氷でブレイクアイスボックス.en.vtt
-video_url: http://www.youtube.com/watch?v=qPfQIyqyxMQ
-thumbnail: https://i.ytimg.com/vi/qPfQIyqyxMQ/maxresdefault.jpg
+video_url: https://www.youtube.com/watch?v=rHI3P6ZLOs4
+thumbnail: https://i.ytimg.com/vi/rHI3P6ZLOs4/maxresdefault.jpg
 related_links:
 - path: /ice-de-breakers-op.html
   label: Intro
