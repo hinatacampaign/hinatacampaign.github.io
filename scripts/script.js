@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   if(vid1El) {
     const storage = window.localStorage;
-    const player = videojs.getPlayer(vid1El);
+    const player = videojs(vid1El);
     player.on('volumechange', function(ev) {
       const vol = player.volume();
       storage.setItem('hinatacampaign-vid1-volume', vol.toString());
