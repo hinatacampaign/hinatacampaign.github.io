@@ -28,7 +28,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            {% if page.related_links %}"relatedLink": {{ page.related_links | map: 'path' | prepend: site.url }},{% endif %}
+            {% if page.related_links %}"relatedLink": {{ page.related_links | map: 'path' }},{% endif %}
             "mainEntity": {
                 "@context": "https://schema.org/",
                 "@type": "VideoObject",
