@@ -2,7 +2,9 @@
 <html lang="{{ site.lang | default: " en" }}">
 
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta content="text/html; charset='UTF-8'; http-equiv='Content-Type'" />
+    <meta name="description" content="{{page.description}}">
     <meta name="twitter:card" content="player" />
     <meta name="twitter:site" content="@hinatacampaign" />
     <meta name="twitter:text:title" content="{{page.title}} (Eng Subs)" />
@@ -11,12 +13,12 @@
     <meta name="twitter:player:width" content="960" />
     <meta name="twitter:player:height" content="540" />
     <meta name="twitter:image" content="{{page.thumbnail}}" />
+    <link rel="canonical" href="{% if page.plink %}{{ page.plink }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- <meta http-equiv="Content-Security-Policy" content="default-src unsafe-inline 'self' data: *; frame-ancestors *;" /> -->
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.17.4/video-js.min.css"
