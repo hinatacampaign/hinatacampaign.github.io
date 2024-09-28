@@ -8,6 +8,7 @@ plink: https://hinatacampaign.github.io/ice-de-breakers-01.html
 subtitles: 日向坂46ICE DE BREAKERSBREAK 01出会いの季節は氷でブレイクアイスボックス.en.vtt
 video_url: https://www.youtube.com/watch?v=Rrd6vQjr5SE
 thumbnail: https://i.ytimg.com/vi/Rrd6vQjr5SE/maxresdefault.jpg
+upload_date: 2024-04-01
 related_links:
 - path: /ice-de-breakers-op.html
   label: Intro

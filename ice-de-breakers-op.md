@@ -8,6 +8,7 @@ plink: https://hinatacampaign.github.io/ice-de-breakers-op.html
 subtitles: 日向坂46ICE DE BREAKERSOPムービーアイスボックス字幕付き.en.vtt
 video_url: https://youtu.be/u_63A-JtORU
 thumbnail: https://i.ytimg.com/vi/u_63A-JtORU/maxresdefault.jpg
+upload_date: 2024-04-01
 related_links:
 - path: /ice-de-breakers-01.html
   label: Episode 1

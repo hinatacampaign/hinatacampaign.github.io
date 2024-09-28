@@ -8,6 +8,7 @@ plink: https://hinatacampaign.github.io/ice-de-breakers-03.html
 subtitles: 日向坂46ICE DE BREAKERSBREAK 03 疲れた頭を氷でブレイクアイスボックス.en.vtt
 video_url: https://www.youtube.com/watch?v=kTirHDdPLyw
 thumbnail: https://i.ytimg.com/vi/kTirHDdPLyw/maxresdefault.jpg
+upload_date: 2024-04-01
 related_links:
 - path: /ice-de-breakers-op.html
   label: Intro

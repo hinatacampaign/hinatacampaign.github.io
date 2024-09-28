@@ -25,4 +25,5 @@ subtitles: 日向坂46絶対的第六感.en.vtt
 video_url: https://youtu.be/qUZagu-NL_s
 thumbnail: https://i.ytimg.com/vi/qUZagu-NL_s/maxresdefault.jpg
 plink: https://hinatacampaign.github.io/zettaiteki-dairokkan.html
+upload_date: 2022-08-19
 ---

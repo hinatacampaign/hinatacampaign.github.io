@@ -24,4 +24,5 @@ subtitles_id: 日向坂46その他大勢タイプ.id.vtt
 video_url: https://youtu.be/FSPzjFUQEj8
 thumbnail: https://i.ytimg.com/vi/FSPzjFUQEj8/maxresdefault.jpg
 plink: https://hinatacampaign.github.io/sonota-ozei-type.html
+upload_date: 2022-09-26
 ---

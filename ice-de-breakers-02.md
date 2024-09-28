@@ -8,6 +8,7 @@ plink: https://hinatacampaign.github.io/ice-de-breakers-02.html
 subtitles: 日向坂46ICE DE BREAKERSBREAK 02乾いた体を氷でブレイクアイスボックス.en.vtt
 video_url: https://www.youtube.com/watch?v=sb0IiYJDr4s
 thumbnail: https://i.ytimg.com/vi/sb0IiYJDr4s/maxresdefault.jpg
+upload_date: 2024-04-01
 related_links:
 - path: /ice-de-breakers-op.html
   label: Intro

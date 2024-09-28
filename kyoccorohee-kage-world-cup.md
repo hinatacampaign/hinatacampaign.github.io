@@ -11,4 +11,5 @@ subtitles: キョコロヒー日向坂46影山優佳が齊藤京子について�
 video_url: https://www.youtube.com/embed/kIqpM8XgxQw?end=162
 thumbnail: https://i.ytimg.com/vi/kIqpM8XgxQw/maxresdefault.jpg
 plink: https://hinatacampaign.github.io/kyoccorohee-kage-world-cup.html
+upload_date: 2022-11-25
 ---
