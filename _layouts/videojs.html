@@ -39,7 +39,7 @@
                 "@type": "MediaObject",
                 "@id": "{{ page.subtitles }}",
                 "contentUrl": "{{ page.subtitles }}",
-                "dateModified": "{{ site.static_files | where:"name", subtitles | file.modified_time }}",
+                "dateModified": "{{ site.static_files | where:"name", page.subtitles | file.modified_time }}",
                 "encodingFormat": "text/vtt",
                 "inLanguage": "en",
                 "translator": {
