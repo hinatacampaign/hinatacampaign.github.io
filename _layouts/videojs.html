@@ -33,13 +33,16 @@
             "description":"{{page.description}}",
             "inLanguage": "ja",
             "thumbnailUrl": "{{page.thumbnail}}",
-            "uploadDate": "{% if page.upload_date %} {{page.upload_date }} {% else %} 2024 {% endif %}",
+            "uploadDate": "{% if page.upload_date %}{{ page.upload_date }}{% else %}2024{% endif %}",
             "caption": {
                 "@context": "https://schema.org/",
                 "@type": "MediaObject",
                 "@id": "{{ page.subtitles }}",
                 "contentUrl": "{{ page.subtitles }}",
-                "dateModified": "{{ site.static_files | where:"name", page.subtitles | file.modified_time }}",
+                {% assign subtitles_files = site.static_files | where: "name", page.subtitles %}
+                {% for s in subtitles_files %}
+                "dateModified": "{{ s.modified_time }}",
+                {% endfor %}
                 "encodingFormat": "text/vtt",
                 "inLanguage": "en",
                 "translator": {
