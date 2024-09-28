@@ -2,11 +2,11 @@
 layout: videojs
 title: Hinatazaka46 - Kimi wa Honeydew
 description: >+
-    Director: Akira Kashida
+    Director: Asuya Hamada
     
     Choreographer: CRE8BOY
     
-    Planner: Keita Gekawa (CHOCOLATE)
+    Planner: Keita Togawa (CHOCOLATE)
     
     Producer: Hiroto Hashimoto (AOI Pro.)
     

@@ -19,6 +19,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- <meta http-equiv="Content-Security-Policy" content="default-src unsafe-inline 'self' data: *; frame-ancestors *;" /> -->
 
+    {% include head-custom.html %}
+
     <script type="text/javascript" src="https://amara.org/embedder-iframe"></script>
 
     <link rel="stylesheet" href="{{ " /styles/style.css?v=" | append: site.github.build_revision | relative_url }}" />

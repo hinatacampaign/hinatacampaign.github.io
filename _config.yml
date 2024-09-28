@@ -12,4 +12,4 @@ minimal:
     - { platform: x, user_url: "https://x.com/hinatacampaign" }:
 
 plugins:
-  # - jekyll-sitemap
+  - jekyll-sitemap
