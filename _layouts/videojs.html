@@ -37,8 +37,8 @@
             "caption": {
                 "@context": "https://schema.org/",
                 "@type": "MediaObject",
-                "@id": "{{ page.subtitles }}",
-                "contentUrl": "{{ page.subtitles }}",
+                "@id": "{{ site.url }}/subs/{{ page.subtitles }}",
+                "contentUrl": "{{ site.url }}/subs/{{ page.subtitles }}",
                 {% assign subtitles_files = site.static_files | where: "name", page.subtitles %}
                 {% for s in subtitles_files %}
                 "dateModified": "{{ s.modified_time }}",
