@@ -7,7 +7,7 @@
     <meta name="twitter:site" content="@hinatacampaign" />
     <meta name="twitter:text:title" content="{{page.title}} (Eng Subs)" />
     <meta name="twitter:description" content="{{page.description}}" />
-    <meta name="twitter:player" content="{{page.plink}}" />
+    <meta name="twitter:player" content="{% if page.plink %}{{ page.plink }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" />
     <meta name="twitter:player:width" content="960" />
     <meta name="twitter:player:height" content="540" />
     <meta name="twitter:image" content="{{page.thumbnail}}" />
@@ -26,43 +26,43 @@
 
     <script type="application/ld+json">
         {
-            "@context": "https://schema.org/",
-            "@type": "VideoObject",
-            "name": "{{page.title}} (Eng Subs)",
-            "@id": "{{page.plink}}",
-            "description":"{{page.description}}",
-            "inLanguage": "ja",
-            "thumbnailUrl": "{{page.thumbnail}}",
-            "uploadDate": "{% if page.upload_date %}{{ page.upload_date }}{% else %}2024{% endif %}",
-            "caption": {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            {% if page.related_links %}"relatedLink": page.related_links,{% endif %}
+            "mainEntity": {
                 "@context": "https://schema.org/",
-                "@type": "MediaObject",
-                "@id": "{{ site.url }}/subs/{{ page.subtitles }}",
-                "contentUrl": "{{ site.url }}/subs/{{ page.subtitles }}",
-                {% assign subtitles_files = site.static_files | where: "name", page.subtitles %}
-                {% for s in subtitles_files %}
-                "dateModified": "{{ s.modified_time }}",
-                {% endfor %}
-                "encodingFormat": "text/vtt",
-                "inLanguage": "en",
-                "translator": {
-                    "@context" : "https://schema.org",
-                    "@type" : "Organization",
-                    "name": "Hinatazaka Campaign",
-                    "sameAs" : "http://x.com/hinatacampaign",
-                    "knowsAbout": "https://hinatazaka46.com"
+                "@type": "VideoObject",
+                "name": "{{page.title}} (Eng Subs)",
+                "description":"{{page.description}}",
+                "inLanguage": "ja",
+                "thumbnailUrl": "{{page.thumbnail}}",
+                "uploadDate": "{% if page.upload_date %}{{ page.upload_date }}{% else %}2024{% endif %}",
+                "caption": {
+                    "@context": "https://schema.org/",
+                    "@type": "MediaObject",
+                    "contentUrl": "{{ site.url }}/subs/{{ page.subtitles }}",
+                    {% assign subtitles_files = site.static_files | where: "name", page.subtitles %}{% for s in subtitles_files %}"dateModified": "{{ s.modified_time }}",{% endfor %}
+                    "encodingFormat": "text/vtt",
+                    "inLanguage": "en",
+                    "translator": {
+                        "@context" : "https://schema.org",
+                        "@type" : "Organization",
+                        "name": "Hinatazaka Campaign",
+                        "sameAs" : "http://x.com/hinatacampaign",
+                        "knowsAbout": "https://hinatazaka46.com"
+                    }
+                },
+                "embedUrl": "https://youtu.be/wRzPuptA6yw",
+                "about": {
+                    "@context": "https://schema.org",
+                    "@type": "MusicGroup",
+                    "name": "Hinatazaka46",
+                    "sameAs": "https://hinatazaka46.com",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hinatazaka46_logo.svg/404px-Hinatazaka46_logo.svg.png"
                 }
-            },
-            "embedUrl": "https://youtu.be/wRzPuptA6yw",
-            "about": {
-                "@context": "https://schema.org",
-                "@type": "MusicGroup",
-                "name": "Hinatazaka46",
-                "sameAs": "https://hinatazaka46.com",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hinatazaka46_logo.svg/404px-Hinatazaka46_logo.svg.png"
             }
         }
-        </script>
+    </script>
 
     {% include head-custom.html %}
 
