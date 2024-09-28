@@ -22,7 +22,35 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.17.4/video-js.min.css"
         integrity="sha512-PUekH1zFIQeA2VaIZljiK1mpm3IzLP2JnzMndJSOEEYeQe1wnxSyO6NuBfXMPwaTnW7A5UBgIPHHzbG+betUVg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="{{ "/styles/style.css?v=" | append: site.github.build_revision | relative_url }}" />
+    <link rel="stylesheet" href="{{ " /styles/style.css?v=" | append: site.github.build_revision | relative_url }}" />
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "VideoObject",
+            "name": "{{page.title}} (Eng Subs)",
+            "@id": "{{page.plink}}",
+            "description":"{{page.description}}",
+            "inLanguage": "ja",
+            "thumbnailUrl": "{{page.thumbnail}}",
+            "caption": {
+                "@context": "https://schema.org/",
+                "@type": "MediaObject",
+                "@id": "{{ page.subtitles }}",
+                "contentUrl": "{{ page.subtitles }}",
+                "encodingFormat": "text/vtt",
+                "inLanguage": "en",
+                "translator": {
+                    "@context" : "https://schema.org",
+                    "@type" : "Organization",
+                    "name": "Hinatazaka Campaign",
+                    "sameAs" : "http://x.com/hinatacampaign",
+                    "knowsAbout": "https://hinatazaka46.com"
+                }
+            },
+            "embedUrl": "https://youtu.be/wRzPuptA6yw"
+        }
+        </script>
 
     {% include head-custom.html %}
 
@@ -42,7 +70,9 @@
             </video>
             <div class="hide-first hide-on-child">
                 <p>{{ page.description | newline_to_br }}</p>
-                <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-show-count="false">Share</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large"
+                    data-show-count="false">Share</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 {% if page.related_links %}
                 <div class="related">
                     <h2>Related</h2>
@@ -65,8 +95,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/3.0.1/Youtube.min.js"
         integrity="sha512-W11MwS4c4ZsiIeMchCx7OtlWx7yQccsPpw2dE94AEsZOa3pmSMbrcFjJ2J7qBSHjnYKe6yRuROHCUHsx8mGmhA=="
         crossorigin="anonymous"></script>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <script src="{{ "/scripts/script.js?v=" | append: site.github.build_revision | relative_url }}"></script>
+    <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ " /scripts/script.js?v=" | append: site.github.build_revision | relative_url }}"></script>
 </body>
 
 </html>
