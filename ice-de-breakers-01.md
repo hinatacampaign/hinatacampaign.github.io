@@ -2,6 +2,8 @@
 layout: videojs
 title: Ice de Breakers - 01
 description: >+
+    Ai and Haru are starting their second high school year. A shy girl, Ai is frustrated that she knows nobody in her new homeroom. The Ice de Breakers help her... break the ice with her new classmates, including Haru!
+    
     Translated by @sasori39883522
 lang: en
 plink: https://hinatacampaign.github.io/ice-de-breakers-01.html

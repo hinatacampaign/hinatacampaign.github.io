@@ -2,6 +2,8 @@
 layout: videojs
 title: Ice de Breakers - 05
 description: >+
+    Now Ai and Haru are alone on the rooftop. As we mentioned, Ai is a shy girl, and it took a while for her to gather her courage. What does she want to say to Haru?
+
     Translated by @sasori39883522
 lang: en
 plink: https://hinatacampaign.github.io/ice-de-breakers-05.html
