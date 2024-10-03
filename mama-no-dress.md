@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Lima Cantik - Mama no Dress
+category: mv
 description: >+
     From Hinatazaka46's 3rd single "Konna ni Suki ni Nacchatte Ii no?"
 

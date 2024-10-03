@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Lima Cantik - Halloween no Kabocha ga Wareta
+category: mv
 description: >+
     From the album Hashiridasu Shunkan
 

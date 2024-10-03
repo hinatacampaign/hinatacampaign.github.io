@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Ice de Breakers - 04
+category: cm
 description: >+
     A sound mind dwells in a sound body, and Haru likes to work out on the school rooftop! The Ice de Breakers are all too eager to play personal trainer for him! After a hellish session, Haru lies exhausted... but is that Ai coming up the stairs?
 

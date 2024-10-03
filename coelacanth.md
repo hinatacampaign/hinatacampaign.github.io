@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Hinatazaka46 - Coelacanth
+category: mv
 description: >
     Translated by @sasori39883522
 subtitles: 日向坂46シーラカンス.en.vtt

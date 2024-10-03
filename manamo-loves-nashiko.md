@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Miyata Manamo gushes about Momotsuki Nashiko
+category: sr
 description: >+
     Idols who are also otakus understand their fans the best.
 id: 563es0rdYqzV

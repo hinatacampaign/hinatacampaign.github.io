@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Hinatazaka46 - Kimi wa Honeydew
+category: mv
 description: >+
     Director: Asuya Hamada
     

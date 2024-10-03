@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Hinatazaka46 - Tomo yo, Ichibanboshi da
+category: mv
 description: >+
     Music & Arrangement : Taisuke Nakamura, TomoLow
     

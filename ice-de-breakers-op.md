@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Ice de Breakers - Opening
+category: cm
 description: >+
     Wherever there's somebody sweating or in need of refreshment, the Ice de Breakers will rush over, carrying a cooler box filled with ice-cold Ice Box drinks, and offer them a little "Break Time"!
 

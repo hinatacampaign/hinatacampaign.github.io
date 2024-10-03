@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Ice de Breakers - 05
+category: cm
 description: >+
     Now Ai and Haru are alone on the rooftop. As we mentioned, Ai is a shy girl, and it took a while for her to gather her courage. What does she want to say to Haru?
 

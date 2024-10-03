@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Ice de Breakers - 01
+category: cm
 description: >+
     Ai and Haru are starting their second high school year. A shy girl, Ai is frustrated that she knows nobody in her new homeroom. The Ice de Breakers help her... break the ice with her new classmates, including Haru!
     

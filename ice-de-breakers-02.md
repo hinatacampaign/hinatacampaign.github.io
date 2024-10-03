@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Ice de Breakers - 02
+category: cm
 description: >+
     A dedicated member of the karate club, Ai is determined to become strong. The Ice de Breakers come and help her stay hydrated and motivated! As a fellow karateka, Yoko especially understands what she's going through!
 

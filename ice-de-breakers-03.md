@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Ice de Breakers - 03
+category: cm
 description: >+
     Doing a difficult exam can be mentally taxing. The Ice de Breakers provide Haru with some much-needed refreshment, and even offer tips on guessing answers (not cheating)! Haru probably won't get a high mark this time... but is Ai stealing glances at him?
     

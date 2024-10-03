@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Hinatazaka46 - Zettaiteki Dairokkan
+category: mv
 description: >+
     Director: Asuya Hamada
     

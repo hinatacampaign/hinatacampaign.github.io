@@ -1,6 +1,7 @@
 ---
 layout: videojs
 title: Hinatazaka46 - Sonota Ozei Type
+category: mv
 description: >+
     Lyrics : Yasushi Akimoto
     
