@@ -1,3 +1,6 @@
+---
+title: Hinatazaka Campaign
+---
 ## MV
 
 {% assign mvs = site.pages | where: "layout", "videojs" | where: "category", "mv" %}

@@ -13,3 +13,6 @@ minimal:
 
 plugins:
   - jekyll-sitemap
+
+twitter:
+  username: hinatacampaign
