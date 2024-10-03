@@ -49,6 +49,10 @@ a {
   color: lightsteelblue;
 }
 
+#social-media {
+  font-size: 30px;
+}
+
 /* Navigation grid */
 .footer {
   display: flex;
