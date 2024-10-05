@@ -87,6 +87,14 @@ a:not(.btn--remix):visited {
   margin: 5px 20px;
 }
 
+.footer-content {
+  flex-direction: row;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .divider {
   padding: 0 1rem;
 }
