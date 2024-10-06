@@ -1,5 +1,5 @@
 {% assign double_quote = '"' %}
-{% assign escaped_double_quote = '\"' %}
+{% assign single_quote = "'" %}
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: " en" }}">
@@ -8,11 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta content="text/html; charset='UTF-8'; http-equiv='Content-Type'" />
     <meta name="title" content="{{page.title}}">
-    <meta name="description" content="{{page.description | replace: double_quote, escaped_double_quote}}">
+    <meta name="description" content="{{page.description | replace: double_quote, single_quote}}">
     <meta name="twitter:card" content="player" />
     <meta name="twitter:site" content="@hinatacampaign" />
-    <meta name="twitter:text:title" content="{{page.title | replace: double_quote, escaped_double_quote}} (Eng Subs)" />
-    <meta name="twitter:description" content="{{page.description | replace: double_quote, escaped_double_quote}}" />
+    <meta name="twitter:text:title" content="{{page.title | replace: double_quote, single_quote}} (Eng Subs)" />
+    <meta name="twitter:description" content="{{page.description | replace: double_quote, single_quote}}" />
     <meta name="twitter:player" content="{% if page.plink %}{{ page.plink }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" />
     <meta name="twitter:player:width" content="960" />
     <meta name="twitter:player:height" content="600" />
