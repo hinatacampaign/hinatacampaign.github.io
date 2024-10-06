@@ -1,3 +1,8 @@
+{% liquid
+    double_quote = '"'
+    escaped_double_quote = '\"'
+%}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: " en" }}">
 
@@ -5,11 +10,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta content="text/html; charset='UTF-8'; http-equiv='Content-Type'" />
     <meta name="title" content="{{page.title}}">
-    <meta name="description" content="{{page.description}}">
+    <meta name="description" content="{{page.description | replace: double_quote, escaped_double_quote}}">
     <meta name="twitter:card" content="player" />
     <meta name="twitter:site" content="@hinatacampaign" />
-    <meta name="twitter:text:title" content="{{page.title}} (Eng Subs)" />
-    <meta name="twitter:description" content="{{page.description}}" />
+    <meta name="twitter:text:title" content="{{page.title | replace: double_quote, escaped_double_quote}} (Eng Subs)" />
+    <meta name="twitter:description" content="{{page.description | replace: double_quote, escaped_double_quote}}" />
     <meta name="twitter:player" content="{% if page.plink %}{{ page.plink }}{% else %}{{ site.url }}{{ page.url }}{% endif %}" />
     <meta name="twitter:player:width" content="960" />
     <meta name="twitter:player:height" content="540" />
@@ -35,7 +40,7 @@
                 "@context": "https://schema.org/",
                 "@type": "VideoObject",
                 "name": "{{page.title}} (Eng Subs)",
-                "description":"{{page.description}}",
+                "description":"{{page.description | replace: double_quote, escaped_double_quote}}",
                 "inLanguage": "ja",
                 "thumbnailUrl": "{{page.thumbnail}}",
                 "uploadDate": "{% if page.upload_date %}{{ page.upload_date }}{% else %}2024{% endif %}",
@@ -83,7 +88,7 @@
                 {% endif %}
             </video>
             <div class="hide-first hide-on-child">
-                <p>{{ page.description | newline_to_br }}</p>
+                <p>{{ page.description | replace: double_quote, escaped_double_quote | newline_to_br }}</p>
                 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large"
                     data-show-count="false">Share</a>
                 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
