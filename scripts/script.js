@@ -21,6 +21,13 @@ document.addEventListener("DOMContentLoaded", (event) => {
   if(vid1El) {
     const storage = window.localStorage;
     const player = videojs(vid1El);
+    player.logo({
+      image: 'android-chrome-192x192.png',
+      url: 'https://x.com/hinatacampaign',
+      width: 64,
+      height: 64,
+      opacity: 0.75
+    });  
     player.on('volumechange', function(ev) {
       const vol = player.volume();
       storage.setItem('hinatacampaign-vid1-volume', vol.toString());
