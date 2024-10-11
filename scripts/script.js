@@ -21,15 +21,17 @@ document.addEventListener("DOMContentLoaded", (event) => {
   if(vid1El) {
     const storage = window.localStorage;
     const player = videojs(vid1El);
-    player.logo({
-      image: 'android-chrome-192x192.png',
-      url: 'https://hinatacampaign.github.io',
-      position: 'bottom-left',
-      width: 64,
-      height: 64,
-      opacity: 0.5,
-      fadeDelay: null
-    });  
+    if (self !== parent) {
+      player.logo({
+        image: 'android-chrome-192x192.png',
+        url: 'https://hinatacampaign.github.io',
+        position: 'bottom-left',
+        width: 48,
+        height: 48,
+        opacity: 0.5,
+        fadeDelay: null
+      });  
+    }
     player.on('volumechange', function(ev) {
       const vol = player.volume();
       storage.setItem('hinatacampaign-vid1-volume', vol.toString());
