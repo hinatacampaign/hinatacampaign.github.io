@@ -141,3 +141,10 @@ body.child .hide-on-child {
 body.self .hide-on-self {
   display: none;
 }
+
+#vid1.video-js .vjs-time-control {
+  display: block;
+}
+#vid1.video-js .vjs-remaining-time {
+  display: none;
+}
