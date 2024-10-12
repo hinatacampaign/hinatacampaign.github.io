@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
       player.logo({
         image: 'android-chrome-192x192.png',
         url: 'https://hinatacampaign.github.io',
-        position: 'bottom-left',
+        position: 'top-left',
         width: 48,
         height: 48,
         opacity: 0.5,
