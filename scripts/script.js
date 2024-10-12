@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
         position: 'top-left',
         width: 48,
         height: 48,
-        opacity: 0.5,
+        opacity: 1.0,
         fadeDelay: null
       });  
     }
