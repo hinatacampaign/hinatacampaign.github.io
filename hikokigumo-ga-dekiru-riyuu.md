@@ -4,12 +4,19 @@ title: Hinatazaka46 - Hikokigumo ga Dekiru Riyuu
 category: mv
 description: >+
     Lyrics: Yasushi Akimoto
+
     Music: Jun Konetsu 
+    
     Arrangement: Makoto Wakatabe 
+    
     Director : Masashi Matsumoto 
+    
     Choreographer : Natsuko Kinoshita 
+    
     Planner : Keita Gaikawa 
+    
     Producer : Hiroto Hashimoto 
+    
     Production : AOI Pro.
 id: 8HvFaJVZtKWB
 lang: en
