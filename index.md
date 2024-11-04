@@ -15,6 +15,13 @@ title: Hinatazaka Campaign
 - <a href="{{ v.url }}" target="_blank">{{ v.title }}</a>
 {% endfor %}
 
+## Movie
+
+{% assign tvs = site.pages | where: "layout", "videojs" | where: "category", "movies" %}
+{% for v in tvs %}
+- <a href="{{ v.url }}" target="_blank">{{ v.title }}</a>
+{% endfor %}
+
 ## TV
 
 {% assign tvs = site.pages | where: "layout", "videojs" | where: "category", "tv" %}
