@@ -8,4 +8,5 @@ description: >
 id: jVuxicA18Tte
 video_url: https://www.youtube.com/embed/88rAUl3j6fg?si=Oxs_xKiHmOaD2ZYo&start=0&end=63
 lang: en
+subtitles: zot-megu-mio.en.vtt
 ---

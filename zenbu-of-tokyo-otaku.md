@@ -8,4 +8,5 @@ description: >
 id: NmWMyXpG2A4q
 video_url: https://www.youtube.com/embed/BE45I9iDlmI?start=0&end=57
 lang: en
+subtitles: zot-shiori.en.vtt
 ---

@@ -8,4 +8,5 @@ description: >
 id: ASTYq7Q0vIMk
 video_url: https://www.youtube.com/embed/d5DIMVc1IlY?start=0&end=59
 lang: en
+subtitles: zot-ayano.en.vtt
 ---
