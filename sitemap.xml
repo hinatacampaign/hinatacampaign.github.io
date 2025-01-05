@@ -9,12 +9,6 @@ layout: null
     {% if post.date %}<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>{% endif %}
   </url>{% endunless %}
   {% endfor %} -->
-  <url>
-    <loc>{{ site.url }}</loc>
-    {% if page.last_modified_at %}<lastmod>{{ page.last_modified_at }}</lastmod>
-    {% else %}<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>{% endif %}
-    <changefreq>weekly</changefreq>
-  </url>
   {% for page in site.pages %}
   {% if page.category %}
   <url>
@@ -25,4 +19,10 @@ layout: null
   </url>
   {% endif %}
   {% endfor %}
+  <url>
+    <loc>{{ site.url }}</loc>
+    {% if page.last_modified_at %}<lastmod>{{ page.last_modified_at }}</lastmod>
+    {% else %}<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>{% endif %}
+    <changefreq>daily</changefreq>
+  </url>
 </urlset>
