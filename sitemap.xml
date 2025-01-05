@@ -9,13 +9,19 @@ layout: null
     {% if post.date %}<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>{% endif %}
   </url>{% endunless %}
   {% endfor %} -->
+  <url>
+    <loc>{{ site.url }}</loc>
+    {% if page.last_modified_at %}<lastmod>{{ page.last_modified_at }}</lastmod>
+    {% else %}<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>{% endif %}
+    <changefreq>weekly</changefreq>
+  </url>
   {% for page in site.pages %}
   {% if page.category %}
   <url>
     <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
     {% if page.last_modified_at %}<lastmod>{{ page.last_modified_at }}</lastmod>
     {% else %}<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>{% endif %}
-    <changefreq>{% if page.slug == "index" %}weekly{% else %}monthly{% endif %}</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   {% endif %}
   {% endfor %}
