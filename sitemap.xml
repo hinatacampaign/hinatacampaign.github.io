@@ -15,7 +15,7 @@ layout: null
     <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
     {% if page.last_modified_at %}<lastmod>{{ page.last_modified_at }}</lastmod>
     {% else %}<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>{% endif %}
-    <changefreq>{$ if page.slug == "index" $}weekly{% else %}monthly{% endif %}</changefreq>
+    <changefreq>{% if page.slug == "index" %}weekly{% else %}monthly{% endif %}</changefreq>
   </url>
   {% endif %}
   {% endfor %}
