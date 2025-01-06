@@ -1,6 +1,6 @@
 ---
 layout: null
 ---
-Sitemap: https://hinatacampaign.github.io/sitemap.xml
+Sitemap: https://hinatacampaign.github.io/sitemap-default.xml
 
 User-agent: *
