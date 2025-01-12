@@ -8,7 +8,7 @@ layout: null
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     {% for page in site.pages %}{% if page.category %}
 	<url>
-		<loc>{{ site.url }}/{{ page.slug}}</loc>{% if page.last_modified_at %}
+		<loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>{% if page.last_modified_at %}
 		<lastmod>{{ page.last_modified_at }}</lastmod>{% else %}
 		<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>{% endif %}
 		<changefreq>monthly</changefreq>
