@@ -1,0 +1,5 @@
+---
+layout: null
+---
+{% for page in site.pages %}{% if page.category %}{{ site.url }}{{ page.url | remove: "index.html" }}{% endif %}{% endfor %}
+{{ site.url }}
