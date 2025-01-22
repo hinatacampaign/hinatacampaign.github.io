@@ -3,17 +3,17 @@ layout: videojs
 title: Hinatazaka46 - Boku ni Tsuzuke
 category: mv
 description: >+
-    Director : Hayato Ando
+    Director: Ando Hayato
 
-    Choreographer : TAKAHIRO
+    Choreographer: TAKAHIRO
 
-    Producer : Hajime Obama
+    Producer: Obama Hajime
 
-    Production : P.I.C.S.
+    Production: P.I.C.S.
 
-    Lyrics : Yasushi Akimoto 
+    Lyrics: Akimoto Yasushi 
 
-    Music & Arrangement : Yoichiro Nomura
+    Music & Arrangement: Nomura Yoichiro
 id: q8gHE6gI5YvA
 lang: en
 subtitles: 日向坂46僕に続け.en.vtt

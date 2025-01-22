@@ -3,17 +3,17 @@ layout: videojs
 title: Hinatazaka46 - Gaufre to Kimi
 category: mv
 description: >+
-    Lyrics : Yasushi Akimoto
+    Lyrics: Akimoto Yasushi
     
-    Music & Arrangement : Yuki Tsujimura, Ken Ito
+    Music & Arrangement: Tsujimura Yuki, Ito Ken
     
-    Director: Yusuke Koroyasu
+    Director: Koroyasu Yusuke
     
     Choreographer: Iripon
     
-    Producer : Hiroaki Watanabe
+    Producer: Watanabe Hiroaki
     
-    Production : PARADE Tokyo
+    Production: PARADE Tokyo
 
     Translation by @sasori39883522
 id: jOXTRQghPwIr

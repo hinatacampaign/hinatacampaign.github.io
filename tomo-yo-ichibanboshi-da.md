@@ -3,17 +3,17 @@ layout: videojs
 title: Hinatazaka46 - Tomo yo, Ichibanboshi da
 category: mv
 description: >+
-    Music & Arrangement : Taisuke Nakamura, TomoLow
+    Music & Arrangement: Nakamura Taisuke, TomoLow
     
-    Director : Takuro Okubo
+    Director: Okubo Takuro
     
-    Choreographer : Marie Mizuki, YUYU
+    Choreographer: Mizuki Marie, YUYU
     
-    Producer : Moto Obama
+    Producer: Obama Moto
+
+    Production: P.I.C.S.
     
-    Production : P.I.C.S.
-    
-    Filming Cooperation : Ibaraki Prefectural Kashima Soccer Stadium
+    Filming Cooperation: Ibaraki Prefectural Kashima Soccer Stadium
     
     Translation by @sasori39883522
 id: lsQoVMk9nVUV

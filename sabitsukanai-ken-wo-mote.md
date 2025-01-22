@@ -3,19 +3,19 @@ layout: videojs
 title: Hinatazaka46 - Sabitsukanai Ken wo Mote!
 category: mv
 description: >+
-    Director : Kentaro Osawa
+    Director: Osawa Kentaro
 
-    Choreographer : CRE8BOY
+    Choreographer: CRE8BOY
     
-    Producer : Hiroto Hashimoto,Hiroki Tokumura
+    Producer: Hashimoto Hiroto, Tokumura Hiroki
     
-    Production : BitStar
+    Production: BitStar
     
-    Lyrics : Yasushi Akimoto
+    Lyrics: Akimoto Yasushi
     
-    Music : karia
+    Music: karia
     
-    Arrangement : APAZZI
+    Arrangement: APAZZI
 
     Translation by @sasori39883522
 id: VNTM7VTEo6x0

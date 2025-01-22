@@ -3,11 +3,11 @@ layout: videojs
 title: Hinatazaka46 - Kimi wo Oboetenai
 category: mv
 description: >+
-    Director：Minori Nakada
+    Director: Nakada Minori
     
-    Choreographer：Kosuke
+    Choreographer: Kosuke
     
-    Producer： Hiroto Hashimoto, Yujo Kuribayashi
+    Producer: Hashimoto Hiroto, Kuribayashi Yujo
     
     Production: isai Inc.
 

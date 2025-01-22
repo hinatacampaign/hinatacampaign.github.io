@@ -3,7 +3,7 @@ layout: videojs
 title: Hinatazaka46 - Yakusoku no Tamago
 category: mv
 description: >+
-    Lyrics: Yasushi Akimoto
+    Lyrics: Akimoto Yasushi
 id: yk2Q5zlkqDjx
 lang: en
 subtitles: 日向坂46 約束の卵 Best Shot Version.en.vtt

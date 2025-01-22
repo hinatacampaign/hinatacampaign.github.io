@@ -3,19 +3,19 @@ layout: videojs
 title: Hinatazaka46 - Kimi wa Honeydew
 category: mv
 description: >+
-    Director: Asuya Hamada
+    Director: Hamada Asuya
     
     Choreographer: CRE8BOY
     
-    Planner: Keita Togawa (CHOCOLATE)
+    Planner: Togawa Keita (CHOCOLATE)
     
-    Producer: Hiroto Hashimoto (AOI Pro.)
+    Producer: Hashimoto Hiroto (AOI Pro.)
     
     Production: AOI Pro.
 
-    Lyrics: Yasushi Akimoto
+    Lyrics: Akimoto Yasushi
     
-    Music & Arrangement: Yoichiro Nomura
+    Music & Arrangement: Nomura Yoichiro
 
     Translation by @sasori39883522
 id: bRUOmjBPKA5O

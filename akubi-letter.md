@@ -3,15 +3,15 @@ layout: videojs
 title: Hinatazaka46 - Akubi Letter
 category: mv
 description: >
-    Lyrics: Yasushi Akimoto
+    Lyrics: Akimoto Yasushi
 
-    Music & Arrangement:  Shouwa Kadono
+    Music & Arrangement: Kadono Shouwa
 
-    Director: Yono Yamaguchi (maxilla)
+    Director: Yamaguchi Yono (maxilla)
 
     Choreographer: CRE8BOY
     
-    Producer: Motome Kohama (P.I.C.S.)
+    Producer: Kohama Motome (P.I.C.S.)
     
     Production: P.I.C.S. (P.I.C.S.)
 

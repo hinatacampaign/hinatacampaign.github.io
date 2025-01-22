@@ -3,7 +3,7 @@ layout: videojs
 title: ♡wisTar♡ - Koi no Train
 category: mv
 description: >+
-    Music & Lyrics: Honoka Hirao
+    Music & Lyrics: Hirao Honoka
     
     Arrangement: TomoLow
 

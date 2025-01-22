@@ -2,21 +2,21 @@
 layout: amara
 title: Hinatazaka46 - Zettaiteki Dairokkan
 description: >+
-    Director: Asuya Hamada
+    Director: Hamada Asuya
     
     Choreographer: CRE8BOY
     
-    Planner: Keita Togawa
+    Planner: Togawa Keita
     
-    Producer: Hiroto Hashimoto (AOI Pro.),
+    Producer: Hashimoto Hiroto (AOI Pro.),
     
     Hiroki Tokumura (Bitstar)
     
     Production: BitStar
 
-    Lyrics: Yasushi Akimoto
+    Lyrics: Akimoto Yasushi
     
-    Music & Arrangement：SATORI shiraishi
+    Music & Arrangement: SATORI shiraishi
 
     Translation by @sasori39883522
 id: DrDuTJ0MyJ9H

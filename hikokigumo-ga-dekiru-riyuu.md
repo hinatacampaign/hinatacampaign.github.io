@@ -3,21 +3,21 @@ layout: videojs
 title: Hinatazaka46 - Hikokigumo ga Dekiru Riyuu
 category: mv
 description: >+
-    Lyrics: Yasushi Akimoto
+    Lyrics: Akimoto Yasushi
 
-    Music: Jun Konetsu 
+    Music: Konetsu Jun
     
-    Arrangement: Makoto Wakatabe 
+    Arrangement: Wakatabe Makoto 
     
-    Director : Masashi Matsumoto 
+    Director: Matsumoto Masashi 
     
-    Choreographer : Natsuko Kinoshita 
+    Choreographer: Kinoshita Natsuko 
     
-    Planner : Keita Gaikawa 
+    Planner: Gaikawa Keita
     
-    Producer : Hiroto Hashimoto 
+    Producer: Hashimoto Hiroto 
     
-    Production : AOI Pro.
+    Production: AOI Pro.
 id: 8HvFaJVZtKWB
 lang: en
 subtitles: 日向坂46飛行機雲ができる理由.en.vtt

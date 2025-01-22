@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title:  Kyoccorohee - Hinatazaka46's Yuka Kageyama's Lie to Kyoko Saito
+title:  Kyoccorohee - Hinatazaka46's Kageyama Yuka's Lie to Saito Kyoko
 category: tv
 description: >+
     From "Kyoccorohee" (TV Asahi), November 21, 2022

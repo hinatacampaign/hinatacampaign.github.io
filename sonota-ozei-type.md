@@ -3,19 +3,19 @@ layout: videojs
 title: Hinatazaka46 - Sonota Ozei Type
 category: mv
 description: >+
-    Lyrics : Yasushi Akimoto
+    Lyrics: Akimoto Yasushi
     
-    Music : Jyotetsushi
+    Music: Jyotetsushi
     
-    Arrangement : TSUKASA
+    Arrangement: TSUKASA
     
-    Director : Ukyo Inaba (EPOCH)
+    Director: Inaba Ukyo (EPOCH)
     
-    Choreographer : Hina Masuda
+    Choreographer: Masuda Hina
     
-    Producer : Hiroaki Watanabe
+    Producer: Watanabe Hiroaki
     
-    Production : PARADE Tokyo
+    Production: PARADE Tokyo
 
     Translation by @sasori39883522
 id: o4JZeuDLE3CL
