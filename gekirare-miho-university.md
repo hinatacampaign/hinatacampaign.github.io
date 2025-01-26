@@ -8,7 +8,7 @@ description: >+
     Translation by @sasori39883522
 lang: en
 subtitles: 激レアさん渡邊美穂 メディア初披露の激レア体験 20241111放送.en.vtt
-video_url: https://www.youtube.com/embed/xXfYRc8aGHI?end=174
+video_url: https://www.youtube.com/embed/xXfYRc8aGHI?end=175
 thumbnail: https://i.ytimg.com/vi/xXfYRc8aGHI/maxresdefault.jpg
 upload_date: 2024-11-12
 ---
