@@ -23,5 +23,6 @@ lang: en
 subtitles: 日向坂46飛行機雲ができる理由.en.vtt
 video_url: https://youtu.be/E6EItQRTmAI
 thumbnail: https://i.ytimg.com/vi/E6EItQRTmAI/maxresdefault.jpg
+hinatrivia: https://x.com/hinatacampaign/status/1852578194546671882
 upload_date: 2022-04-19
 ---

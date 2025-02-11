@@ -13,5 +13,6 @@ lang: en
 subtitles: Hinatazaka46 - Yasashisa Ga Jama wo suru Full ver.en.vtt
 video_url: https://youtu.be/fCTDsmVJNsI
 thumbnail: https://i.ytimg.com/vi/fCTDsmVJNsI/hqdefault.jpg
+hinatrivia: https://x.com/hinatacampaign/status/1888092160966221922
 upload_date: 2019-07-17
 ---

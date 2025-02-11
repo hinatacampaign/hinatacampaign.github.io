@@ -12,5 +12,6 @@ lang: en
 subtitles: 日向坂46夢は何歳まで.en.vtt
 video_url: https://youtu.be/_YiekxdpaQE
 thumbnail: https://i.ytimg.com/vi/_YiekxdpaQE/maxresdefault.jpg
+hinatrivia: https://x.com/hinatacampaign/status/1883018760199565756
 upload_date: 2021-09-21
 ---

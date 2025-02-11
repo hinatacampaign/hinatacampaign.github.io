@@ -13,5 +13,6 @@ lang: en
 subtitles: Hinatazaka46 - Mama no Dress Full ver.en.vtt
 video_url: https://youtu.be/l2FnsMzDqbM
 thumbnail: https://i.ytimg.com/vi/l2FnsMzDqbM/sddefault.jpg
+hinatrivia: https://x.com/hinatacampaign/status/1855114853972647998
 upload_date: 2019-10-02
 ---

@@ -13,5 +13,6 @@ lang: en
 subtitles: けやき坂４６ー Halloween no Kabocha ga Wareta - Hiragana Oshi.en.vtt
 video_url: https://youtu.be/_B__DvBCXJQ
 thumbnail: https://pbs.twimg.com/media/GWm4MnfX0AAVgvU?format=jpg
+hinatrivia: https://x.com/hinatacampaign/status/1850041425498407318
 upload_date: 2018-10-29
 ---
