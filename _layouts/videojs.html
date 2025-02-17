@@ -99,8 +99,9 @@
                 <p><a href="{{ page.hinatrivia }}" target="_blank">Read the <strong>#hinatrivia</strong> post</a></p>
                 {% endif %}
                 {% if page.subtitles %}
-                {% assign sub_embed_path = "/subs/" | append: page.subtitles %}
+                {% assign sub_embed_path = "subs/" | append: page.subtitles %}
                 <!-- <h2>Subtitles</h2> -->
+                <!-- {{ sub_embed_path }} -->
                 <table border="0">
                     {% assign lines = site.static_files | where: "path", sub_embed_path | first | read | split: "\n" %}
                     {% assign is_cue = false %}
@@ -145,7 +146,7 @@
                         <td>{{ subtitle }}</td>
                         </tr>
                     {% endif %}
-                    </table>
+                </table>
                 {% endif %}
                 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large"
                     data-show-count="false">Share</a>
