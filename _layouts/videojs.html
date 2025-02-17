@@ -110,7 +110,7 @@
                     
                     {% for line in lines %}
                         {% assign trimmed_line = line | strip %}
-                        
+                        <!-- {{ trimmed_line }} -->
                         {% if trimmed_line contains "-->" %}
                         {%- comment -%} Found a new cue. Start collecting its subtitle. {%- endcomment -%}
                         {% assign timecode = trimmed_line %}
