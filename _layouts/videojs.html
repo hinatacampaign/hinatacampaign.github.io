@@ -100,7 +100,7 @@
                 {% endif %}
                 {% if page.subtitles %}
                 {% assign sub_embed_path = "/subs/" | append: page.subtitles %}
-                <h2>Subtitles</h2>
+                <!-- <h2>Subtitles</h2> -->
                 <table border="0">
                     {% assign lines = site.static_files | where: "path", sub_embed_path | first | read | split: "\n" %}
                     {% assign is_cue = false %}
