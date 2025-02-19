@@ -9,7 +9,7 @@ description: >+
     
     Choreographer: Takahiro
     
-    Producer: Kohama Moto (P.I.C.S.)
+    Producer: Kohama Hajime (P.I.C.S.)
     
     Arrangement: A-NOTE/S-TONE
 lang: en

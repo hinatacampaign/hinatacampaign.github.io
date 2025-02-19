@@ -2,13 +2,19 @@
 layout: videojs
 category: mv
 title:  Hinatazaka46 - Tsuki to Hoshi ga Odoru Midnight
-description: >
-    Lyrics : Yasushi Akimoto
-    Music : Masafumi Okamoto
-    Arrangement : TomoLow
-    Director : Masayoshi Oshido
-    Choreographer : CRE8BOY
-    Producer : Motome Obama
+description: >+
+    Lyrics: Akimoto Yasushi
+
+    Music: Okamoto Masafumi
+
+    Arrangement: TomoLow
+    
+    Director: Oshido Masayoshi
+    
+    Choreographer: CRE8BOY
+    
+    Producer: Kohama Hajime
+    
     Production : P.I.C.S.
 lang: en
 subtitles: 日向坂46月と星が踊るMidnight.en.vtt

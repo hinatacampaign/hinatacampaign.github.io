@@ -7,7 +7,7 @@ description: >+
 
     Choreographer: TAKAHIRO
 
-    Producer: Obama Hajime
+    Producer: Kohama Hajime
 
     Production: P.I.C.S.
 

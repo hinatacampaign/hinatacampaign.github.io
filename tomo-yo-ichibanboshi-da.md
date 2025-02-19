@@ -9,7 +9,7 @@ description: >+
     
     Choreographer: Mizuki Marie, YUYU
     
-    Producer: Obama Moto
+    Producer: Kohama Hajime
 
     Production: P.I.C.S.
     

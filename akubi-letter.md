@@ -11,7 +11,7 @@ description: >
 
     Choreographer: CRE8BOY
     
-    Producer: Kohama Motome (P.I.C.S.)
+    Producer: Kohama Hajime (P.I.C.S.)
     
     Production: P.I.C.S. (P.I.C.S.)
 
