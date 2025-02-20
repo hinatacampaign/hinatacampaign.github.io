@@ -85,7 +85,7 @@
         <div class="container">
             <h1 class="hide-first hide-on-child">{{ page.title }} (Eng Subs)</h1>
             <video id="vid1" class="video-js vjs-16-9" controls autoplay
-                data-setup='{ "techOrder": ["chromecast", "youtube"], "plugins": { "chromecast": {} }, "sources": [{ "type": "video/youtube", "src": "{{ page.video_url }}"}], "enableDocumentPictureInPicture": true }'>
+                data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "{{ page.video_url }}"}], "enableDocumentPictureInPicture": true }'>
                 <track src="/subs/{{ page.subtitles }}" srclang="en" label="English" default />
                 {% if page.subtitles_id %}
                 <track src="/subs/{{ page.subtitles_id }}" srclang="id" label="Bahasa Indonesia" />

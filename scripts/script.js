@@ -40,6 +40,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
     if(params.has('lang')) {
       player.language = params.get('lang');
     }
+
+    player.chromecast();
   }
 
   document.querySelectorAll(".hide-first").forEach(e => e.classList.remove('hide-first'));
