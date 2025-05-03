@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Mita Koto Nai Mamono
+title: Hinatazaka46 - Mitakotonai Mamono
 category: mv
 description: >+
     From Hinatazaka46's 10th single "Am I Ready?"
@@ -8,7 +8,7 @@ lang: en
 subtitles: 日向坂46見たことない魔物.en.vtt
 video_url: https://youtu.be/PBQwERX7FvQ
 thumbnail: https://i.ytimg.com/vi/PBQwERX7FvQ/maxresdefault.jpg
-# hinatrivia: https://x.com/hinatacampaign/status/1855114853972647998
+hinatrivia: https://x.com/hinatacampaign/status/1918532776871014809
 upload_date: 2023-07-10
 lyrics: >+
     I can't find the answer,
