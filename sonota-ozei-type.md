@@ -95,6 +95,7 @@ lyrics: >+
 
     But someone who's always close to me
 
+
     I love you!
 
 
