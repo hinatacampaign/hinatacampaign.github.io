@@ -21,7 +21,7 @@ upload_date: 2025-05-15
 lyrics:  >+
     In the crowd on the street corner,
 
-    When I feel that I missed something,
+    When I'm feeling that loss,
 
     "It just wasn't meant to be"
 
@@ -64,12 +64,12 @@ lyrics:  >+
 
     It felt like a little secret between us—
 
-    And every time I remember, it hurts.
+    And every time I remember, it's heartrending.
 
 
-    Every person, without realizing it,
+    Before realizing it, everyone
 
-    would become adults, won't they?
+    will become adults, won't they?
 
     All the things that we didn't know
 
@@ -117,7 +117,7 @@ lyrics:  >+
 
     It felt like a little secret between us—
 
-    And every time I remember, it hurts.
+    And every time I remember, it heartrending.
 
 
     I looked it up in a plant reference book—
