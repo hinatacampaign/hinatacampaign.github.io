@@ -16,7 +16,7 @@ lang: en
 subtitles: 日向坂46ジャーマンアイリスMUSICVIDEO.en.vtt
 video_url: https://www.youtube.com/watch?v=F-16wnHQLLw
 thumbnail: https://i.ytimg.com/vi/F-16wnHQLLw/maxresdefault.jpg
-# hinatrivia: https://x.com/hinatacampaign/status/1852578194546671882
+hinatrivia: https://x.com/hinatacampaign/status/1930129191816556684
 upload_date: 2025-05-15
 lyrics:  >+
     In the crowd on the street corner,
