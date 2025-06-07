@@ -130,5 +130,5 @@ lyrics: >+
 
     I've been hooked by you
 
-    I love you
+    I love you!
 ---
