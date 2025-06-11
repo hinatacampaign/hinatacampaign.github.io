@@ -21,7 +21,7 @@ video_url: https://www.youtube.com/watch?v=KcpvHDt0bPc
 thumbnail: https://i.ytimg.com/vi/KcpvHDt0bPc/maxresdefault.jpg
 hinatrivia: https://x.com/hinatacampaign/status/1791334600549060710
 lang: en
-upload_date: 2025-01-12
+upload_date: 2021-10-05
 lyrics: >+
     On the mahogany table, 
     rewriting the letter over and over again
@@ -52,7 +52,7 @@ lyrics: >+
     Dozens, no, hundreds of times, 
     I’ve imagined the same things
 
-    And so, until the night breaks
+    And so, until the dawn breaks
 
     Yawning, I write my love letter
 
@@ -103,7 +103,7 @@ lyrics: >+
     Dozens, no, hundreds of times, 
     I’ve imagined the same things
 
-    And so, until the night breaks
+    And so, until the dawn breaks
 
     Yawning, I write my love letter
 ---
