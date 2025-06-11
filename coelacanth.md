@@ -41,7 +41,7 @@ lyrics: >+
 
     Nothing has changed since those times
 
-    The excitement has returned
+    I rediscovered the excitement
 
     I can't believe that it's been 
     quietly living until now, such a miracle
@@ -107,7 +107,7 @@ lyrics: >+
 
     Nothing has changed since those times
 
-    The excitement has returned
+    I rediscovered the excitement
 
     I can't believe that it's been 
     quietly living until now, such a miracle

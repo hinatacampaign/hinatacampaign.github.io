@@ -94,7 +94,20 @@ a:not(.btn--remix):visited {
   display: flex;
   width: 100%;
   align-items: center;
+  flex-wrap: wrap;
   justify-content: space-between;
+}
+
+.footer-content > div {
+  flex-direction: 1;
+  width: 33.33%;
+  margin-top: 10px;
+}
+
+@media (max-width: 767px) {
+  .footer-content > div {
+    width: 100%;
+  }
 }
 
 .divider {
