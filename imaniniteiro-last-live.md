@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hiragana Keyakizaka46 - Imanimiteiro (Last Live)
+title: Hiragana Keyakizaka46 1st Generation - Imanimiteiro (Last Live)
 category: mv
 description: >+
     Hinatazaka46 Debut Countdown Live, Yokohama Arena, March 5-6, 2019

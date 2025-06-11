@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Yasashisa Ga Jama wo suru
+title: Respect Three - Yasashisa Ga Jama wo suru
 category: mv
 description: >+
     From Hinatazaka46's 2nd single "Do Re Mi So La Si Do"

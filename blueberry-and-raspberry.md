@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Blueberry & Raspberry
+title: Hinatazaka46 4th Generation - Blueberry & Raspberry
 category: mv
 description: >+
     Choreographer: CRE8BOY

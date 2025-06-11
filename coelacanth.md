@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Coelacanth
+title: Hinatazaka46 4th Generation - Coelacanth
 category: mv
 description: >
     Translated by @sasori39883522

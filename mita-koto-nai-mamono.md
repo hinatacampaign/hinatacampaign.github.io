@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Mitakotonai Mamono
+title: Hinatazaka46 4th Generation - Mitakotonai Mamono
 category: mv
 description: >+
     From Hinatazaka46's 10th single "Am I Ready?"

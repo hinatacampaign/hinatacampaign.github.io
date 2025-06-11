@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - SUZUKA
+title: Hiragana Hinatazaka46 - SUZUKA
 category: mv
 description: >+
     Director: Okubo Takuro

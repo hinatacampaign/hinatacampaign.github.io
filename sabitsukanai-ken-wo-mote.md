@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Sabitsukanai Ken wo Mote!
+title: Hiragana Hinatazaka46 - Sabitsukanai Ken wo Mote!
 category: mv
 description: >+
     Director: Osawa Kentaro

@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Kimi wo Oboetenai
+title: Hiragana Hinatazaka46 - Kimi wo Oboetenai
 category: mv
 description: >+
     Director: Nakada Minori

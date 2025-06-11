@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Gaufre to Kimi
+title: Hinatazaka46 3rd Generation - Gaufre to Kimi
 category: mv
 description: >+
     Lyrics: Akimoto Yasushi

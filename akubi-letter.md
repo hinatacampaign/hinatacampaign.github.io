@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Akubi Letter
+title: Color Chart - Akubi Letter
 category: mv
 description: >
     Lyrics: Akimoto Yasushi

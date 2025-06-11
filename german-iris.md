@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - German Iris
+title: Hinatazaka46 5th Generation - German Iris
 category: mv
 description: >+
     Lyrics: Akimoto Yasushi

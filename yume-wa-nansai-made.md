@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Yume wa Nansai Made?
+title: Amechan - Yume wa Nansai Made?
 category: mv
 description: >+
     From Hinatazaka46's 6th single "Tteka"
