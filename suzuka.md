@@ -21,7 +21,7 @@ lyrics: >+
 
     That cute girl on the bus
 
-    Without even knowing who she is,
+    Without even knowing who she was,
     I fell in love
 
     Even if I rode at the same time
