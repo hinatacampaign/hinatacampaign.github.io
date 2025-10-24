@@ -119,7 +119,7 @@ lyrics: >+
 
     And there's nothing particularly remarkable
 
-    That's what really drawed me to you
+    That's what really drew me to you
 
 
     The greenish color somehow reminds me of the sky
