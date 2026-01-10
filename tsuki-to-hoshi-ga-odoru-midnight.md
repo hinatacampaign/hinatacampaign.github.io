@@ -47,7 +47,7 @@ lyrics: >+
 
     We live with our eyes closed
 
-    And stop resisting
+    And stopped resisting
 
     Yes, what was it that we despised 
     so much, for so long?
@@ -123,7 +123,7 @@ lyrics: >+
 
     We live with our eyes closed
 
-    And stop resisting
+    And stopped resisting
 
     Yes, what was it that we despised 
     so much, for so long?
