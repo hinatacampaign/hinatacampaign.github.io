@@ -1,6 +1,6 @@
 ---
 layout: videojs
-title: Hinatazaka46 - Enshuritsu
+title: Hinatazaka46 5th Generation - Enshuritsu
 category: mv
 description: >+
     Director: Yoshida Yuki
