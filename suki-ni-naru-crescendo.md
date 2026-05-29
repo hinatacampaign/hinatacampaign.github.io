@@ -23,7 +23,7 @@ description: >+
     Translation by @sasori39883522
 lang: en
 # plink: https://hinatacampaign.github.io/kimi-wa-honeydew.html
-subtitles: enshuritsu.vtt
+subtitles: suki-ni-naru-crescendo.vtt
 video_url: https://www.youtube.com/watch?v=MlNNxI0MNDI
 thumbnail: https://i.ytimg.com/vi/MlNNxI0MNDI/maxresdefault.jpg
 upload_date: 2026-01-25
