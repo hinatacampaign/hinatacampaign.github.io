@@ -10,7 +10,7 @@ description: >+
     Producer: Tokumura Hiroki
 
     Creative Producer: Hashimoto Hiroto
-    
+
     Production: SENPO Inc. / Kob LLC
 
 
@@ -31,85 +31,81 @@ upload_date: 2026-05-18
 lyrics: >+
     The sunshine coming through the glass windows
 
-    Is reflected by the blackboard and disappears
+    Reflects off the blackboard, making it hard to see
 
-    The things that really matter aren't written there 
+    Nothing that really matters is written there anyway
 
-    I keep gazing at you the whole time
+    I keep on gazing at you
 
 
     Those numbers that are lined up
 
-    What meaning do they hold? 
+    What meaning do they hold?
 
 
     Like pi that never ends
 
-    I really wanted to keep on going 
-    
+    I really wanted to keep on going
+
     Its infinite decimal digits
-    
+
     As many as the loving words I want to say
-    
-    Endlessly, forever
-    
-    Even to hundreds of millions of digits
-    
-    I can't find the solution to my feelings 
+
+    No matter how far, no matter how long, even to hundreds of millions of digits
+
+    I can't find the solution to my feelings
 
 
     To have you sitting diagonally across from me
-    
-    Is that good luck or bad luck? 
-    
+
+    Is that good luck or bad luck?
+
     Because I can't focus on the lesson
-    
+
     But I feel happy
 
 
     Love is infinite
 
-    The feelings of loving someone will just go on 
+    This feeling of love will just go on
 
     
-    22/7, numerator over denominator 
-    
+    22/7, numerator over denominator
+
     My feelings keep surfacing again and again
-    
+
     My unresolved affection
-    
-    Leaves a lingering uneasiness
-    
+
+    Leaves a lingering uneasiness 
+
     It won't stop, this emotion 
-    
-    Right now, for me
-    
-    It's the most important thing 
 
+    And for me right now
 
+    It's the most important thing of all
+
+    
     How far should I go to find the answer?
-    
-    Nobody really knows 
-    
-    My heart is in circles 
-    
+
+    No one really knows
+
+    My heart is in circles
+
     Endlessly thinking of you
 
     
     Like pi that never ends
-    
-    I really wanted to keep on going 
-    
+
+    I really wanted to keep on going
+
     Its infinite decimal digits
-    
+
     As many as the loving words I want to say
-    
-    Endlessly, forever
-    
-    Even to hundreds of millions of digits
-    
+
+    No matter how far, no matter how long, even to hundreds of millions of digits
+
     I can't find the solution to my feelings
 
-
-    Pi cannot express it
+    
+    "π" isn't enough to express it
 ---
