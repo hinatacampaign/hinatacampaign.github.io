@@ -10,6 +10,7 @@ description: >+
     Producer: Tokumura Hiroki
 
     Creative Producer: Hashimoto Hiroto
+    
     Production: SENPO Inc. / Kob LLC
 
 
